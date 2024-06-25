@@ -24,4 +24,4 @@ Le ortesi in questo repository sono suddivise in diverse categorie, tra cui:
   # Accessibilità:
   Ortesi che facilitano l'uso di strumenti e tecnologie, come mouse, tastiere braille e supporti per smartphone.
 
-  [<center><img src="png/list_new.png" width="5%"></center>](Accessibilità)
+  [<img align="middle" src="png/list_new.png" width="15%">](Accessibilità)

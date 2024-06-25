@@ -12,7 +12,7 @@ Le ortesi open source possono avere un impatto significativo sulla vita dei lavo
 Le ortesi in questo repository sono suddivise in diverse categorie, tra cui:
 
   # Mobilità: 
-  Ortesi che aiutano con il movimento e il trasporto di oggetti, come ausili per la scrittura, ortesi per la mano e supporti per posate.
+  Ortesi che aiutano con il movimento e il trasporto di oggetti, come ausili per la scrittura, ortesi per la mano e supporti per posate. [Clicca qui](Accessibilità\README.md)
   # Ergonomia: 
   Ortesi che migliorano la postura e riducono lo sforzo fisico, come supporti per il polso.
   # Accessibilità: 

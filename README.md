@@ -17,4 +17,4 @@ Le ortesi in questo repository sono suddivise in diverse categorie, tra cui:
   Ortesi che migliorano la postura e riducono lo sforzo fisico, come supporti per il polso.
   # Accessibilità: 
   Ortesi che facilitano l'uso di strumenti e tecnologie, come mouse, tastiere braille e supporti per smartphone.
-  [<img align="center" src="png/list_new.png" width="15%">](Accessibilità)
+  [<img align="right" src="png/list_new.png" width="15%">](Accessibilità)

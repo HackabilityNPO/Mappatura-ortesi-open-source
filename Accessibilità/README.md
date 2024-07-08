@@ -48,6 +48,7 @@ L’obiettivo è quello di creare una macchina di lettura in grado di acquisire 
 
 # SOFTWARE MOUSE
 
+
 ## CameraMouse
 Il progetto "Camera Mouse" è un software progettato per migliorare l'accessibilità al computer per persone con disabilità motorie. Utilizzando la fotocamera del computer, il software consente agli utenti di controllare il cursore del mouse attraverso il movimento della testa. Questo approccio innovativo permette agli individui con limitazioni fisiche di interagire con il computer in modo più naturale e indipendente, facilitando l'accesso a una vasta gamma di applicazioni e risorse digitali.
 ## Colibrino

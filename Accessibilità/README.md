@@ -7,7 +7,7 @@ Dispositivo di scrittura adattivo che rende più facile l'uso di penne o matite 
 Progettato per rendere la lettura più accessibile per le persone con disturbi specifici dell'apprendimento, migliorando la loro capacità di concentrarsi sul testo senza distrazioni visive.
 ## Bionic Mouse ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/BionicMouse))
 Il progetto "Bionic Mouse" è un dispositivo progettato per migliorare l'accessibilità dell'uso del mouse per persone con disabilità. Questo mouse adattativo è progettato per migliorare l'ergonomia e ridurre lo sforzo fisico necessario durante l'interazione con il computer, facilitando così un accesso più efficace e confortevole alle tecnologie digitali per chi ha bisogni speciali.
-## Braille RAP-SP
+## Braille RAP-SP ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/BrailleRAP-SP))
 Il progetto rende accessibile la lettura del Braille a persone con disabilità visive, migliorando l'accesso alle informazioni.
 ## Braille Tooth
 Le tastiere Braille Bluetooth possono essere integrate in una custodia per telefoni Android e Apple o come dispositivo stand-alone delle dimensioni di un portafoglio. Queste tastiere possono connettersi a qualsiasi dispositivo abilitato al Bluetooth, come tablet, telefoni o computer, per fungere da tastiera e dispositivo di navigazione. 

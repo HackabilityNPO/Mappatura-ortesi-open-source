@@ -1,13 +1,13 @@
 # MAPPATURA ORTESI OPEN SOURCE
 Questo repository è una raccolta di soluzioni open source progettate per supportare i lavoratori con disabilità e aiutarli a svolgere le loro mansioni in modo sicuro ed efficiente. L'obiettivo è promuovere l'inclusione lavorativa fornendo un accesso gratuito e aperto a soluzioni assistive innovative. 
 
-## Chair stop wheel holder
+## Chair stop wheel holder ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ausili_per_la_mobilit%C3%A0/Chair%20stop%20wheel%20holder))
 Il Chair Stop è un pratico supporto progettato per fermare le ruote di una sedia a rotelle in modo sicuro e affidabile. Questo dispositivo offre stabilità e sicurezza, impedendo alla sedia di muoversi accidentalmente quando non è in uso. Ideale per migliorare l'accessibilità e la sicurezza degli utenti di sedia a rotelle, facilitando il loro quotidiano.
-## Cuillère anti-tremblement
+## Cuillère anti-tremblement ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ausili_per_la_mobilit%C3%A0/Cuill%C3%A8re%20anti-tremblement))
 Creare un cucchiaio anti-tremore stampato in 3D, progettato per fissare e stabilizzare orizzontalmente una cucciaiola o una forchetta.
-## Gripsy - Tool for disabled people
+## Gripsy - Tool for disabled people ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ausili_per_la_mobilit%C3%A0/Gripsy%20-%20Tool%20for%20disabled%20people))
 Gripsy è uno strumento progettato per aiutare le persone con limitata funzionalità della mano nell'esecuzione di attività quotidiane. Lo strumento è pensato per le persone affette dalla sindrome di Holt-Oram (spesso prive di pollici), ma può essere utilizzato anche da coloro che hanno poca forza negli arti superiori. Con questo strumento è possibile aprire bottiglie di plastica, lattine di soda, afferrare piccoli oggetti come una carta da un distributore automatico e girare una chiave in una serratura.
-## Improving fine motor skills to assist in the rehabilitation of individuals with hand spasticity
+## Improving fine motor skills to assist in the rehabilitation of individuals with hand spasticity ([Clicca qui]
 Modello stabilizzatore per dito, pollice e polso, che può essere modellato per adattarsi alla forma del polso riscaldandolo con un asciugacapelli o una pistola termica. Per adattare il file alla tua mano, dovrebbe essere ridimensionato nelle proporzioni appropriate utilizzando un programma slicer per la stampa 3D. Il file delle cinghie generalmente non dovrebbe essere ridimensionato, in quanto serve per regolare la forza di tensione della gomma.
 ## MugHolder
 Il portatazza Recidal è progettato per migliorare l'indipendenza e la facilità d'uso per le persone con disabilità. Questo supporto sicuro e pratico si adatta saldamente alla carrozzina o alla superficie desiderata, consentendo agli utenti di accedere facilmente alla loro tazza o bicchiere. Ideale per migliorare l'esperienza quotidiana e promuovere l'autonomia.

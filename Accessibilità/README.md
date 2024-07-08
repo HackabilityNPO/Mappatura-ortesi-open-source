@@ -1,7 +1,7 @@
 # Mappatura-ortesi-open-source-
 Questo repository è una raccolta di soluzioni open source progettate per supportare i lavoratori con disabilità e aiutarli a svolgere le loro mansioni in modo sicuro ed efficiente. L'obiettivo è promuovere l'inclusione lavorativa fornendo un accesso gratuito e aperto a soluzioni assistive innovative. 
 
-## Adaptive Writing Aid 
+## Adaptive Writing Aid [Clicca qui](Adaptive Writing Aid)
 Dispositivo di scrittura adattivo che rende più facile l'uso di penne o matite per persone con difficoltà motorie.
 ## Adjustable Reading Ruler
 Progettato per rendere la lettura più accessibile per le persone con disturbi specifici dell'apprendimento, migliorando la loro capacità di concentrarsi sul testo senza distrazioni visive.

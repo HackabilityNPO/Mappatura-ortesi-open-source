@@ -9,63 +9,63 @@ Progettato per rendere la lettura più accessibile per le persone con disturbi s
 Il progetto "Bionic Mouse" è un dispositivo progettato per migliorare l'accessibilità dell'uso del mouse per persone con disabilità. Questo mouse adattativo è progettato per migliorare l'ergonomia e ridurre lo sforzo fisico necessario durante l'interazione con il computer, facilitando così un accesso più efficace e confortevole alle tecnologie digitali per chi ha bisogni speciali.
 ## Braille RAP-SP ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/BrailleRAP-SP))
 Il progetto rende accessibile la lettura del Braille a persone con disabilità visive, migliorando l'accesso alle informazioni.
-## Braille Tooth
+## Braille Tooth ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/BrailleTooth))
 Le tastiere Braille Bluetooth possono essere integrate in una custodia per telefoni Android e Apple o come dispositivo stand-alone delle dimensioni di un portafoglio. Queste tastiere possono connettersi a qualsiasi dispositivo abilitato al Bluetooth, come tablet, telefoni o computer, per fungere da tastiera e dispositivo di navigazione. 
-## Customizable Head Pointer
+## Customizable Head Pointer ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Customizable%20Head%20Pointer))
 Il progetto "Customizable Head Pointer" è un dispositivo progettato per aiutare le persone con limitazioni fisiche a interagire con dispositivi digitali utilizzando movimenti della testa. Questo strumento può essere personalizzato per adattarsi alle esigenze specifiche dell'utente, consentendo loro di utilizzare computer, tablet e altri strumenti digitali con maggiore facilità.
-## Declic
+## Declic ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Declic))
 Il dispositivo funge da mouse adattativo progettato per consentire agli amputati di creare combinazioni di tasti. È progettato per migliorare l'accessibilità e la facilità d'uso del computer per persone con amputazioni, consentendo loro di navigare e interagire con il computer attraverso una soluzione ergonomica e adattativa.
-## Drag Assistive Writing and Drawing Device
+## Drag Assistive Writing and Drawing Device ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Drag%20assistive%20writing%20and%20drawing%20device))
 Dispositivo progettato per migliorare l'accessibilità durante l'attività di scrittura e disegno per persone con disabilità motorie. Questo dispositivo assistivo aiuta gli utenti a stabilizzare e controllare meglio la penna o il pennarello durante l'uso, facilitando così la creazione di testi e disegni più precisi e leggibili. È pensato per rendere più accessibile e confortevole l'uso degli strumenti di scrittura e disegno, consentendo di esprimersi attraverso l'arte e la comunicazione scritta con maggiore indipendenza.
-## Fingers Guide for MobilityLab Keyboard
+## Fingers Guide for MobilityLab Keyboard ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Fingers%20Guide%20for%20MobilityLab%20Keyboard%20-%205894442))
 Guida per le dita per consentire a una persona con problemi di presa di evitare di premere due tasti contemporaneamente.
-## Flip Mouse
+## Flip Mouse ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Flip%20Mouse))
 Il Flip Mouse sostituisce il normale mouse, tastiera o joystick del PC. Controllabile applicando forze molto basse su un apposito "mouthpiece" con labbra, dita o altre parti del corpo. Le impostazioni possono essere personalizzate e salvate per adattarsi alle capacità dell'utente. 
-## Hand Support for laptop keyboard
+## Hand Support for laptop keyboard ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Hand%20support%20for%20laptop%20keyboard))
 Supporto mobile per consentire il movimento della mano sopra la tastiera sostenendo il polso. 
-## Head Mouse:
+## Head Mouse ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Head%20Mouse))
 Il prodotto HeadMouse è un dispositivo di puntamento controllato tramite i movimenti della testa, progettato per aiutare le persone con mobilità limitata delle mani ad accedere e controllare computer, tablet, smartphone e dispositivi di generazione vocale.
-## Head Wand
+## Head Wand ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Head%20Wand))
 Il prodotto HeadWand è uno strumento progettato per aiutare le persone con disabilità alle mani. Questo dispositivo è simile a un "mouth stick", ma viene fissato alla testa con un casco regolabile mediante strisce di velcro, adattandosi così a diverse dimensioni della testa. La funzione principale è quella di permettere all'utente di utilizzare il puntatore per digitare o navigare nei documenti web muovendo la testa.
-## Head Pointer
+## Head Pointer ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/HeadPointer))
 Casco con puntatore per persone con uso limitato delle mani, per attività come girare le pagine, disegnare, come ausilio per la tastiera o portapenne.
-## MoldFinger 
+## MoldFinger ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/MoldFinger%20-%20Conductive%20finger%20pad%20for%20capacitive%20screen%20-%205638627))
 Dito conduttivo ergonomico che consente l'uso di uno schermo capacitivo da parte di persone disabili.
-## Mouse for disabled
+## Mouse for disabled ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Mouse%20for%20disabled%20-%20prototype%201.0%20-%202515768))
 Il progetto "Disabled Quadriplegic Mouse Concept" propone un nuovo mouse progettato specificamente per persone con quadriplegia, una condizione che limita significativamente la mobilità e la capacità di utilizzare dispositivi tradizionali. Questo mouse adattato mira a migliorare l'accessibilità consentendo a chi ha gravi disabilità motorie di controllare il computer in modo più efficace e confortevole. È progettato con funzionalità ergonomiche e adattative che consentono un utilizzo personalizzato, facilitando così l'interazione con il mondo digitale per coloro che altrimenti avrebbero difficoltà a farlo con dispositivi standard.
-## Mouth Operated Mouse
+## Mouth Operated Mouse ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Mouth%20Operated%20Mouse))
 Questo progetto mira a creare un dispositivo di puntamento (mouse) per persone con disabilità. Il risultato è un mouse basato sul controllo con la bocca che si collega tramite USB a quasi ogni PC. Il case può essere montato su treppiedi standard. L'utente muove il cursore con un "mouthpiece" che funziona come un joystick. 
-## Raised Keyboard Letters
+## Raised Keyboard Letters ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Raised%20Keyboard%20Letters))
 Il progetto "Raised Keyboard Letters" fornisce adesivi con lettere in rilievo che possono essere applicati sui tasti delle tastiere standard. Questi adesivi sono progettati per aiutare le persone con difficoltà visive a identificare i tasti al tatto, migliorando così l'accessibilità e l'usabilità delle tastiere. Questo strumento è particolarmente utile per chi ha problemi di vista o difficoltà a leggere le lettere standard su una tastiera, permettendo loro di digitare in modo più efficiente e preciso.
-## Smartphone USB Plug Helper
+## Smartphone USB Plug Helper ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Smartphone%20USB%20plug%20helper))
 Supporto per presa USB per smartphone per rendere l'uso del telefono più accessibile, specialmente per coloro che hanno difficoltà a manipolare i cavi USB in modo preciso.
-## Spastic Hand Rest
+## Spastic Hand Rest ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Spastic%20hand%20rest%20for%20computer%20-%205615283))
 Spastic hand rest progettato per rendere l'uso del computer più accessibile per persone con spasticità, prevenendo la pressione accidentale sulla tastiera e quindi facilitando l'uso corretto del computer
-## Read4me
+## Read4me ([Clicca qui](
 L’obiettivo è quello di creare una macchina di lettura in grado di acquisire il testo cartaceo e di leggerlo attraverso una sintesi vocale.
+## Writting orthesis ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Writting%20orthesis%20-%205638935))
+L'ortesi consente una manipolazione naturale di qualsiasi penna o matita diametri di circa 8 mm.
 
 ---
 # SOFTWARE MOUSE
 ---
 
-## CameraMouse
+## CameraMouse ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Camera%20Mouse))
 Il progetto "Camera Mouse" è un software progettato per migliorare l'accessibilità al computer per persone con disabilità motorie. Utilizzando la fotocamera del computer, il software consente agli utenti di controllare il cursore del mouse attraverso il movimento della testa. Questo approccio innovativo permette agli individui con limitazioni fisiche di interagire con il computer in modo più naturale e indipendente, facilitando l'accesso a una vasta gamma di applicazioni e risorse digitali.
-## Colibrino
+## Colibrino ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Colibrino))
 Il progetto del mouse con testa Colibri è un'iniziativa open-source volta a migliorare l'accessibilità per persone con disabilità fisiche come quadriplegia, artrogriposi, amputazioni e paralisi cerebrale. Questo dispositivo fai-da-te offre una soluzione innovativa per consentire a individui con limitazioni motorie di interagire più facilmente con il computer attraverso movimenti controllati della testa. Il suo obiettivo principale è rendere più accessibile l'uso delle tecnologie digitali, promuovendo l'autonomia e l'indipendenza nelle attività quotidiane e lavorative.
-## Elefant Software Clikka Mouse
+## Elefant Software Clikka Mouse ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Elefant%20Software))
 Clikka Mouse è un software progettato per migliorare l'usabilità del mouse su computer Windows. Offre funzionalità che consentono agli utenti di personalizzare e semplificare i clic del mouse, facilitando così l'interazione con il computer. Il software è particolarmente utile per coloro che hanno difficoltà motorie o desiderano ottimizzare l'accessibilità del mouse secondo le proprie esigenze.
-## Eviacam
+## Eviacam ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Eviacam))
 "Eviacam" è un software innovativo progettato per migliorare l'accessibilità al computer per persone con disabilità motorie. Utilizzando la tecnologia di tracciamento degli occhi o del movimento della testa, il programma consente agli utenti di controllare il cursore del mouse e interagire con il computer senza l'uso delle mani. Questo approccio innovativo mira a fornire un'esperienza più accessibile e indipendente, consentendo agli individui con limitazioni fisiche di utilizzare efficacemente le risorse digitali e le applicazioni informatiche necessarie per le loro attività quotidiane e lavorative.
-## KeyPress OSD
+## KeyPress OSD ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/KeyPress%20OSD))
 Il progetto "KeyPress-OSD" è un software open-source che mostra in sovraimpressione (On-Screen Display) i tasti premuti sulla tastiera durante l'utilizzo del computer. Questo strumento fornisce un feedback visivo agli utenti, consentendo loro di vedere quali tasti stanno attivando in tempo reale. È utile per migliorare l'accessibilità e l'usabilità degli strumenti di lavoro digitali, facilitando una migliore interazione con il computer soprattutto per utenti con particolari esigenze visive o di comprensione.
-## NVDA
+## NVDA ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/NVDA))
 NVDA (NonVisual Desktop Access) è un software gratuito e open-source progettato per migliorare l'accessibilità al computer per le persone non vedenti e ipovedenti. Questo strumento fornisce un'interfaccia vocale che permette agli utenti di navigare, utilizzare applicazioni e accedere ai contenuti digitali senza l'uso della vista. NVDA Italia supporta e promuove l'uso di questo software, facilitando un accesso più inclusivo e indipendente alla tecnologia informatica per le persone con disabilità visiva.
-## OptiKey
+## OptiKey ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/OptiKey))
 OptiKey è un software open-source progettato per migliorare l'accessibilità informatica per persone con disabilità motorie. Utilizza tecniche di eye tracking e input alternativi per consentire agli utenti di controllare il mouse e interagire con il computer attraverso il movimento degli occhi o altri dispositivi di input. Questo strumento non solo migliora l'ergonomia riducendo lo sforzo fisico necessario, ma facilita anche la comunicazione digitale, rendendo più accessibili gli strumenti di lavoro digitali per chi ha difficoltà motorie significative.
-## Proper Code - Clickless Mouse
+## Proper Code - Clickless Mouse ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Proper%20Code%20-%20Clickless%20Mouse))
 Il Clickless Mouse è un software progettato per ridurre lo sforzo fisico durante l'uso del mouse, eliminando la necessità di cliccare fisicamente il pulsante. Utilizza tecniche di riconoscimento dei gesti o movimenti per attivare le azioni normalmente associate al clic. Questo approccio è particolarmente utile per migliorare l'ergonomia e ridurre lo stress muscolare per gli utenti che necessitano di un'alternativa al clic tradizionale del mouse.
-## Writting orthesis
-L'ortesi consente una manipolazione naturale di qualsiasi penna o matita diametri di circa 8 mm.
 
 
 

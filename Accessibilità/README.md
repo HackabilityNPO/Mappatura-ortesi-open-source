@@ -1,7 +1,7 @@
 # MAPPATURA ORTESI OPERN SOURCE
 Questo repository è una raccolta di soluzioni open source progettate per supportare i lavoratori con disabilità e aiutarli a svolgere le loro mansioni in modo sicuro ed efficiente. L'obiettivo è promuovere l'inclusione lavorativa fornendo un accesso gratuito e aperto a soluzioni assistive innovative. 
 
-## Adaptive Writing Aid ([Adaptive Writing Aid](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Adaptive%20Writing%20Aid))
+## ([Adaptive Writing Aid](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Adaptive%20Writing%20Aid))
 Dispositivo di scrittura adattivo che rende più facile l'uso di penne o matite per persone con difficoltà motorie.
 ## Adjustable Reading Ruler ([Adjustable reading ruler](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Adjustable%20reading%20ruler))
 Progettato per rendere la lettura più accessibile per le persone con disturbi specifici dell'apprendimento, migliorando la loro capacità di concentrarsi sul testo senza distrazioni visive.

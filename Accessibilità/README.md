@@ -1,9 +1,9 @@
 # MAPPATURA ORTESI OPERN SOURCE
 Questo repository è una raccolta di soluzioni open source progettate per supportare i lavoratori con disabilità e aiutarli a svolgere le loro mansioni in modo sicuro ed efficiente. L'obiettivo è promuovere l'inclusione lavorativa fornendo un accesso gratuito e aperto a soluzioni assistive innovative. 
 
-## ([Adaptive Writing Aid](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Adaptive%20Writing%20Aid))
+## Adaptive Writing Aid ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Adaptive%20Writing%20Aid))
 Dispositivo di scrittura adattivo che rende più facile l'uso di penne o matite per persone con difficoltà motorie.
-## Adjustable Reading Ruler ([Adjustable reading ruler](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Adjustable%20reading%20ruler))
+## Adjustable Reading Ruler ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Accessibilit%C3%A0/Adjustable%20reading%20ruler))
 Progettato per rendere la lettura più accessibile per le persone con disturbi specifici dell'apprendimento, migliorando la loro capacità di concentrarsi sul testo senza distrazioni visive.
 ## Bionic Mouse
 Il progetto "Bionic Mouse" è un dispositivo progettato per migliorare l'accessibilità dell'uso del mouse per persone con disabilità. Questo mouse adattativo è progettato per migliorare l'ergonomia e ridurre lo sforzo fisico necessario durante l'interazione con il computer, facilitando così un accesso più efficace e confortevole alle tecnologie digitali per chi ha bisogni speciali.

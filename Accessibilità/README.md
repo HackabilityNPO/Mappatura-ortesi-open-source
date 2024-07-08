@@ -19,4 +19,8 @@ Progettato per rendere la lettura più accessibile per le persone con disturbi s
 Supporto mobile per consentire il movimento della mano sopra la tastiera sostenendo il polso. 
 ## Read4me
 L’obiettivo è quello di creare una macchina di lettura in grado di acquisire il testo cartaceo e di leggerlo attraverso una sintesi vocale.
+## Braille RAP-SP
+Il progetto rende accessibile la lettura del Braille a persone con disabilità visive, migliorando l'accesso alle informazioni.
+## 
+
 

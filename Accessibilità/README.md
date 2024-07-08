@@ -64,6 +64,8 @@ NVDA (NonVisual Desktop Access) è un software gratuito e open-source progettato
 OptiKey è un software open-source progettato per migliorare l'accessibilità informatica per persone con disabilità motorie. Utilizza tecniche di eye tracking e input alternativi per consentire agli utenti di controllare il mouse e interagire con il computer attraverso il movimento degli occhi o altri dispositivi di input. Questo strumento non solo migliora l'ergonomia riducendo lo sforzo fisico necessario, ma facilita anche la comunicazione digitale, rendendo più accessibili gli strumenti di lavoro digitali per chi ha difficoltà motorie significative.
 ## Proper Code - Clickless Mouse
 Il Clickless Mouse è un software progettato per ridurre lo sforzo fisico durante l'uso del mouse, eliminando la necessità di cliccare fisicamente il pulsante. Utilizza tecniche di riconoscimento dei gesti o movimenti per attivare le azioni normalmente associate al clic. Questo approccio è particolarmente utile per migliorare l'ergonomia e ridurre lo stress muscolare per gli utenti che necessitano di un'alternativa al clic tradizionale del mouse.
+## Writting orthesis
+L'ortesi consente una manipolazione naturale di qualsiasi penna o matita diametri di circa 8 mm.
 
 
 

@@ -13,6 +13,7 @@ Le ortesi in questo repository sono suddivise in diverse categorie, tra cui:
 
   # Mobilità: 
   Ortesi che aiutano con il movimento e il trasporto di oggetti, come ausili per la scrittura, ortesi per la mano e supporti per posate.
+  [Clicca qui](Mobilità)
 
   ---
 
@@ -24,5 +25,6 @@ Le ortesi in questo repository sono suddivise in diverse categorie, tra cui:
 
   # Accessibilità:
   Ortesi che facilitano l'uso di strumenti e tecnologie, come mouse, tastiere braille e supporti per smartphone.
+  [Clicca qui](Accessibilità)
 
   [<img align="middle" src="png/list_new.png" width="15%">](Accessibilità)

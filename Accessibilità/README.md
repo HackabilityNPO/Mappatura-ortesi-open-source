@@ -21,6 +21,8 @@ Supporto mobile per consentire il movimento della mano sopra la tastiera sostene
 L’obiettivo è quello di creare una macchina di lettura in grado di acquisire il testo cartaceo e di leggerlo attraverso una sintesi vocale.
 ## Braille RAP-SP
 Il progetto rende accessibile la lettura del Braille a persone con disabilità visive, migliorando l'accesso alle informazioni.
+## Fingers Guide for MobilityLab Keyboard
+Guida per le dita per consentire a una persona con problemi di presa di evitare di premere due tasti contemporaneamente.
 ## 
 
 

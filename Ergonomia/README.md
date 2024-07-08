@@ -13,21 +13,21 @@ Il progetto "Drag Assistive Writing and Drawing Device" è un dispositivo proget
 Supporto per la presa della mano sinistra che avvicina il pollice al resto delle dita in una persona che può muovere il pollice per l'estensione ma non ha abbastanza forza per la presa. Ortesi motorizzata per il pollice che consente la presa di un oggetto.
 ## Finger Pen Holder (Vertical) ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Finger%20Pen%20Holder%20(Vertical)))
 Il finger pencil holder è un piccolo accessorio che si aggancia a un dito e tiene uno strumento di scrittura. È utile per coloro che hanno problemi di presa ma conservano ancora un certo movimento nel polso o nella mano. Questo modello orizzontale può essere utilizzato sul pollice o sull'indice.
-## Gilfo
+## Gilfo ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Glifo))
 L'ausilio per la scrittura personalizzato Glifo è stato creato da Opendot e TOG per aiutare i bambini con disturbi neurologici complessi a scrivere e disegnare, permettendo loro di lasciare il proprio segno. Questo strumento di accessibilità può essere utile anche per gli anziani, gli adulti con artrite o, in generale, per persone e bambini con difficoltà nel maneggiare piccoli oggetti.
-## Guide Doigt Clavier Logitech K360
+## Guide Doigt Clavier Logitech K360 ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Guide_doigt_clavier_Logitech_K360))
 Finger guide per la tastiera Logitech K360 per mantenere il dito su un tasto nonostante i tremori.
-## Palm Pen Holder 2
+## Palm Pen Holder 2 ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Palm%20Pen%20Holder%202))
 Questo è un ausilio per la scrittura stampabile in 3D personalizzabile (parametrico). Il Portapenne Palm facilita la presa di una penna, matita o altro strumento da scrivere ed è utile per chi ha difficoltà a tenere una penna o matita direttamente. Il dispositivo può essere infilato sulla mano dell'utente o tenuto in diverse posizioni.
-## Palm Pen Holder
+## Palm Pen Holder ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Palm%20Pen%20Holder))
 Il palm pen holder è una stecca da scrittura che si infila sul palmo della mano. Gli utenti possono arricciare delicatamente le dita intorno al manico per tenerlo saldamente o agganciare il pollice intorno allo strumento di scrittura. Ha un grande foro che può ospitare strumenti di scrittura di varie larghezze. Questo dispositivo è utile per chi ha una presa limitata o una destrezza delle dita ridotta.
-## Plug Puller – Assistive Technology Solution
+## Plug Puller – Assistive Technology Solution ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Plug%20Puller%20-%20Assistive%20Technology%20Solution))
 Questo estrattore di spine stampato in 3D, creato da (WATAP), potrebbe essere la soluzione per te! Il file di questo modello è ora disponibile per la stampa 3D gratuitamente. Questo estrattore di spine è una soluzione tecnologica assistiva progettata per soddisfare le esigenze delle persone con disabilità. Sebbene sia stato realizzato per facilitare l'accessibilità, può essere utile anche a chiunque. Questo modello è progettato per adattarsi alla maggior parte delle spine standard e consente di rimuoverle in modo sicuro e semplice, senza danneggiare la spina, la presa o te stesso.
-## Signature Guide
+## Signature Guide ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Signature%20Guide))
 Una guida per firme è un ausilio per la scrittura a basso costo, stampato in 3D, che aiuta le persone con ipovisione, tremori alle mani, dislessia o altre disabilità a scrivere in un punto specifico per scopi come scrivere un nome, una firma o delle iniziali. Questo modello ha le dimensioni di una carta d'identità standard, quindi può essere inserito in un portafoglio e dispone di 5 riquadri di dimensioni diverse.
-## Spoon stabilizer support
+## Spoon stabilizer support ([Clicca qui)(https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Spoon%20stabilizer%20support/spoon-stabilizer-support-main))
 Il progetto "Spoon Stabilizer Support" è un dispositivo progettato per migliorare l'indipendenza e la precisione durante l'uso delle posate da parte di persone con difficoltà motorie. Questo supporto stabilizza e facilita il movimento delle posate, consentendo agli utenti di mangiare in modo più autonomo e senza eccessivo sforzo fisico. È pensato per rendere l'attività quotidiana del mangiare più accessibile e confortevole per coloro che incontrano difficoltà motorie durante il pasto.
-## Wrist orthosis orthese
+## Wrist orthosis orthese ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Wrist%20orthosis%20orthese))
 Questa ortesi per il polso stampabile in 3D offre un supporto personalizzato e confortevole per il polso, ideale per chi necessita di un supporto aggiuntivo durante il recupero da infortuni o per affrontare condizioni di instabilità. Realizzata per adattarsi alle esigenze specifiche dell'utente, questa ortesi è progettata per fornire il massimo comfort e supporto, consentendo nel contempo un movimento naturale e limitando lo stress sul polso durante le attività quotidiane.
-## Writting orthesis
+## Writting orthesis ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Writting%20orthesis))
 Un'ortesi per la scrittura progettata da e per un tetraplegico. L'ortesi consente di impugnare in modo naturale qualsiasi penna o matita con un diametro di circa 8 mm.

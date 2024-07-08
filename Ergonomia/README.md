@@ -1,13 +1,13 @@
 # MAPPATURA ORTESI OPEN SOURCE
 Questo repository è una raccolta di soluzioni open source progettate per supportare i lavoratori con disabilità e aiutarli a svolgere le loro mansioni in modo sicuro ed efficiente. L'obiettivo è promuovere l'inclusione lavorativa fornendo un accesso gratuito e aperto a soluzioni assistive innovative. 
 
-## Arthritis Typing Aid/Arthritis-Typing-Aid-main
+## Arthritis Typing Aid/Arthritis-Typing-Aid-main ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Arthritis%20Typing%20Aid/Arthritis-Typing-Aid-main))
 Il progetto "Arthritis Typing Aid" è uno strumento progettato per aiutare le persone con artrite a digitare senza provare dolore. Si tratta di uno stilo a forma di palla che offre una presa facile e permette all'utente di digitare senza dover usare le dita in modo doloroso.
-## Bottle Opener fot the elder people
+## Bottle Opener fot the elder people ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Bottle%20Opener%20for%20the%20elder%20people))
 Apribottiglie progettato per facilitare l'uso da parte di anziani o persone con disabilità.
-## Bottle Opener
+## Bottle Opener ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Bottle%20Opener))
 L’apribottiglie può aiutare le persone con artrite o limitata destrezza delle dita ad aprire i tappi standard delle bottiglie d'acqua (⌀ 30 mm o 1,18"). Fornisce una grande superficie di presa e si aggancia ai tappi con una leggera pressione, permettendo agli utenti di rimuovere o avvitare i tappi delle bottiglie d'acqua.
-## Drag assistive writing and drawing device
+## Drag assistive writing and drawing device ([Clicca qui](https://github.com/HackabilityNPO/Mappatura-ortesi-open-source/tree/main/Ergonomia/Drag%20assistive%20writing%20and%20drawing%20device))
 Il progetto "Drag Assistive Writing and Drawing Device" è un dispositivo progettato per migliorare l'accessibilità durante l'attività di scrittura e disegno per persone con disabilità motorie. Questo dispositivo assistivo aiuta gli utenti a stabilizzare e controllare meglio la penna o il pennarello durante l'uso, facilitando così la creazione di testi e disegni più precisi e leggibili. È pensato per rendere più accessibile e confortevole l'uso degli strumenti di scrittura e disegno per chi ha difficoltà motorie, consentendo loro di esprimersi attraverso l'arte e la comunicazione scritta con maggiore indipendenza.
 ## Exofinger
 Supporto per la presa della mano sinistra che avvicina il pollice al resto delle dita in una persona che può muovere il pollice per l'estensione ma non ha abbastanza forza per la presa. Ortesi motorizzata per il pollice che consente la presa di un oggetto.

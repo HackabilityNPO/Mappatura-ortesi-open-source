@@ -1,2 +1,33 @@
 # Mappatura-ortesi-open-source-
 Questo repository è una raccolta di soluzioni open source progettate per supportare i lavoratori con disabilità e aiutarli a svolgere le loro mansioni in modo sicuro ed efficiente. L'obiettivo è promuovere l'inclusione lavorativa fornendo un accesso gratuito e aperto a soluzioni assistive innovative. 
+
+## Arthritis Typing Aid/Arthritis-Typing-Aid-main
+Il progetto "Arthritis Typing Aid" è uno strumento progettato per aiutare le persone con artrite a digitare senza provare dolore. Si tratta di uno stilo a forma di palla che offre una presa facile e permette all'utente di digitare senza dover usare le dita in modo doloroso.
+## Bottle Opener fot the elder people
+Apribottiglie progettato per facilitare l'uso da parte di anziani o persone con disabilità.
+## Bottle Opener
+L’apribottiglie può aiutare le persone con artrite o limitata destrezza delle dita ad aprire i tappi standard delle bottiglie d'acqua (⌀ 30 mm o 1,18"). Fornisce una grande superficie di presa e si aggancia ai tappi con una leggera pressione, permettendo agli utenti di rimuovere o avvitare i tappi delle bottiglie d'acqua.
+## Drag assistive writing and drawing device
+Il progetto "Drag Assistive Writing and Drawing Device" è un dispositivo progettato per migliorare l'accessibilità durante l'attività di scrittura e disegno per persone con disabilità motorie. Questo dispositivo assistivo aiuta gli utenti a stabilizzare e controllare meglio la penna o il pennarello durante l'uso, facilitando così la creazione di testi e disegni più precisi e leggibili. È pensato per rendere più accessibile e confortevole l'uso degli strumenti di scrittura e disegno per chi ha difficoltà motorie, consentendo loro di esprimersi attraverso l'arte e la comunicazione scritta con maggiore indipendenza.
+## Exofinger
+Supporto per la presa della mano sinistra che avvicina il pollice al resto delle dita in una persona che può muovere il pollice per l'estensione ma non ha abbastanza forza per la presa. Ortesi motorizzata per il pollice che consente la presa di un oggetto.
+## Finger Pen Holder (Vertical)
+Il finger pencil holder è un piccolo accessorio che si aggancia a un dito e tiene uno strumento di scrittura. È utile per coloro che hanno problemi di presa ma conservano ancora un certo movimento nel polso o nella mano. Questo modello orizzontale può essere utilizzato sul pollice o sull'indice.
+## Gilfo
+L'ausilio per la scrittura personalizzato Glifo è stato creato da Opendot e TOG per aiutare i bambini con disturbi neurologici complessi a scrivere e disegnare, permettendo loro di lasciare il proprio segno. Questo strumento di accessibilità può essere utile anche per gli anziani, gli adulti con artrite o, in generale, per persone e bambini con difficoltà nel maneggiare piccoli oggetti.
+## Guide Doigt Clavier Logitech K360
+Finger guide per la tastiera Logitech K360 per mantenere il dito su un tasto nonostante i tremori.
+## Palm Pen Holder 2
+Questo è un ausilio per la scrittura stampabile in 3D personalizzabile (parametrico). Il Portapenne Palm facilita la presa di una penna, matita o altro strumento da scrivere ed è utile per chi ha difficoltà a tenere una penna o matita direttamente. Il dispositivo può essere infilato sulla mano dell'utente o tenuto in diverse posizioni.
+## Palm Pen Holder
+Il palm pen holder è una stecca da scrittura che si infila sul palmo della mano. Gli utenti possono arricciare delicatamente le dita intorno al manico per tenerlo saldamente o agganciare il pollice intorno allo strumento di scrittura. Ha un grande foro che può ospitare strumenti di scrittura di varie larghezze. Questo dispositivo è utile per chi ha una presa limitata o una destrezza delle dita ridotta.
+## Plug Puller – Assistive Technology Solution
+Questo estrattore di spine stampato in 3D, creato da (WATAP), potrebbe essere la soluzione per te! Il file di questo modello è ora disponibile per la stampa 3D gratuitamente. Questo estrattore di spine è una soluzione tecnologica assistiva progettata per soddisfare le esigenze delle persone con disabilità. Sebbene sia stato realizzato per facilitare l'accessibilità, può essere utile anche a chiunque. Questo modello è progettato per adattarsi alla maggior parte delle spine standard e consente di rimuoverle in modo sicuro e semplice, senza danneggiare la spina, la presa o te stesso.
+## Signature Guide
+Una guida per firme è un ausilio per la scrittura a basso costo, stampato in 3D, che aiuta le persone con ipovisione, tremori alle mani, dislessia o altre disabilità a scrivere in un punto specifico per scopi come scrivere un nome, una firma o delle iniziali. Questo modello ha le dimensioni di una carta d'identità standard, quindi può essere inserito in un portafoglio e dispone di 5 riquadri di dimensioni diverse.
+## Spoon stabilizer support
+Il progetto "Spoon Stabilizer Support" è un dispositivo progettato per migliorare l'indipendenza e la precisione durante l'uso delle posate da parte di persone con difficoltà motorie. Questo supporto stabilizza e facilita il movimento delle posate, consentendo agli utenti di mangiare in modo più autonomo e senza eccessivo sforzo fisico. È pensato per rendere l'attività quotidiana del mangiare più accessibile e confortevole per coloro che incontrano difficoltà motorie durante il pasto.
+## Wrist orthosis orthese
+Questa ortesi per il polso stampabile in 3D offre un supporto personalizzato e confortevole per il polso, ideale per chi necessita di un supporto aggiuntivo durante il recupero da infortuni o per affrontare condizioni di instabilità. Realizzata per adattarsi alle esigenze specifiche dell'utente, questa ortesi è progettata per fornire il massimo comfort e supporto, consentendo nel contempo un movimento naturale e limitando lo stress sul polso durante le attività quotidiane.
+## Writting orthesis
+Un'ortesi per la scrittura progettata da e per un tetraplegico. L'ortesi consente di impugnare in modo naturale qualsiasi penna o matita con un diametro di circa 8 mm.

@@ -1,2 +1,27 @@
-# Mappatura-ortesi-open-source-
+# MAPPATURA ORTESI OPEN SOURCE
 Questo repository è una raccolta di soluzioni open source progettate per supportare i lavoratori con disabilità e aiutarli a svolgere le loro mansioni in modo sicuro ed efficiente. L'obiettivo è promuovere l'inclusione lavorativa fornendo un accesso gratuito e aperto a soluzioni assistive innovative. 
+
+## Chair stop wheel holder
+Il Chair Stop è un pratico supporto progettato per fermare le ruote di una sedia a rotelle in modo sicuro e affidabile. Questo dispositivo offre stabilità e sicurezza, impedendo alla sedia di muoversi accidentalmente quando non è in uso. Ideale per migliorare l'accessibilità e la sicurezza degli utenti di sedia a rotelle, facilitando il loro quotidiano.
+## Cuillère anti-tremblement
+Creare un cucchiaio anti-tremore stampato in 3D, progettato per fissare e stabilizzare orizzontalmente una cucciaiola o una forchetta.
+## Gripsy - Tool for disabled people
+Gripsy è uno strumento progettato per aiutare le persone con limitata funzionalità della mano nell'esecuzione di attività quotidiane. Lo strumento è pensato per le persone affette dalla sindrome di Holt-Oram (spesso prive di pollici), ma può essere utilizzato anche da coloro che hanno poca forza negli arti superiori. Con questo strumento è possibile aprire bottiglie di plastica, lattine di soda, afferrare piccoli oggetti come una carta da un distributore automatico e girare una chiave in una serratura.
+## Improving fine motor skills to assist in the rehabilitation of individuals with hand spasticity
+Modello stabilizzatore per dito, pollice e polso, che può essere modellato per adattarsi alla forma del polso riscaldandolo con un asciugacapelli o una pistola termica. Per adattare il file alla tua mano, dovrebbe essere ridimensionato nelle proporzioni appropriate utilizzando un programma slicer per la stampa 3D. Il file delle cinghie generalmente non dovrebbe essere ridimensionato, in quanto serve per regolare la forza di tensione della gomma.
+## MugHolder
+Il portatazza Recidal è progettato per migliorare l'indipendenza e la facilità d'uso per le persone con disabilità. Questo supporto sicuro e pratico si adatta saldamente alla carrozzina o alla superficie desiderata, consentendo agli utenti di accedere facilmente alla loro tazza o bicchiere. Ideale per migliorare l'esperienza quotidiana e promuovere l'autonomia.
+## NewSkill wheelchair cup holder
+Il portabicchieri NewSkill per carrozzina è progettato per offrire praticità e comodità agli utenti di carrozzine. Questo accessorio robusto e funzionale consente di trasportare facilmente bicchieri, bottiglie o tazze mentre ci si sposta. Dotato di un meccanismo di fissaggio sicuro e regolabile, il portabicchieri si adatta facilmente alla maggior parte dei modelli di carrozzina, migliorando così l'accessibilità e la qualità della vita per gli utilizzatori. Ideale per l'uso quotidiano e per chi cerca soluzioni pratiche e affidabili per le proprie esigenze di mobilità. All’interno è presente anche il portacuffie.
+## Orthosis for Typing and touchscreen
+Un'ortesi progettata per persone che hanno perso il controllo della mano (ridotta o completa mancanza di movimento delle dita), consentendo l'uso di tastiera e touchscreen. Realizzato per il "Mutual de Seguridad C.Ch.C" in Cile, come parte di un progetto della Direzione di innovazione e sviluppo e dell'Istituto di neuro riabilitazione.
+## Printed Rehabilitation Orthosis/3D Printed Orthosis Free Source Files and Assembly Guide
+Ortesi riabilitativa stampata in 3D, progettata come supporto ad un uomo tetraplegico ad afferrare oggetti durante la riabilitazione
+## Spoon stabilizer support/spoon-stabilizer-support-main
+Il progetto "Spoon Stabilizer Support" è un dispositivo progettato per migliorare l'indipendenza e la precisione durante l'uso delle posate da parte di persone con difficoltà motorie. Questo supporto stabilizza e facilita il movimento delle posate, consentendo agli utenti di mangiare in modo più autonomo e senza eccessivo sforzo fisico. È pensato per rendere l'attività quotidiana del mangiare più accessibile e confortevole per coloro che incontrano difficoltà motorie durante il pasto.
+## Utensil Holder
+Per le persone con problemi di destrezza delle dita, tenere un cucchiaio o una forchetta può essere una sfida. Questo supporto per utensili si fissa saldamente alla mano dell'utente con del velcro e dispone di uno slot universale per adattarsi a utensili di diverse dimensioni.
+## Voice activated motorized hand
+Questo dispositivo, ispirato dal successo del Kinetic Hand di Mat Bowtell e del dispositivo Exii Hackberry, mira a superare le sfide di stampa e assemblaggio, nonché il costo elevato dei precedenti modelli. Utilizzando componenti elettronici avanzati, il dispositivo è progettato per essere controllato tramite Bluetooth e comandi vocali, disponibili attualmente in inglese e francese.
+## Wheel Chair Bottle Holder holey
+Il portabottiglie Holely per carrozzina è un accessorio pratico e versatile progettato per migliorare la comodità e l'accessibilità degli utenti di carrozzine. Dotato di un design perforato che garantisce una presa sicura e stabile per bottiglie, bicchieri o tazze, questo supporto è ideale per chi desidera avere facilmente a portata di mano bevande durante gli spostamenti. Facile da installare e regolare, si adatta alla maggior parte dei modelli di carrozzina grazie al suo sistema di fissaggio universale. Un'aggiunta essenziale per migliorare la qualità della vita quotidiana degli utenti di carrozzine, offrendo praticità e sicurezza mentre si è in movimento.
